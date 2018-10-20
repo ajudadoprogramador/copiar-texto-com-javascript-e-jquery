@@ -10,7 +10,7 @@ $(function(){
             alert('Copiado');
         }else {
             alert('Erro ao copiar, seu navegador pode não ter suporte a essa função.');
-        };
+        }
         // Cancela a execução do formulário
         return false;
     });
